@@ -3,7 +3,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=jonbarrow&color=0000E5&style=flat-square">
 
-<h3>Like my work? Consider supporting me on Patreon and Ko-Fi to help make open soure software my full-time job!</h3>
+<h3>Like my work? Consider supporting me on Patreon and Ko-Fi to help make open source software my full-time job!</h3>
 <!--<img src="https://img.shields.io/endpoint.svg?url=https://shieldsio-patreon.vercel.app/api/?username=jonbarrow&type=patrons&style=for-the-badge">-->
 <a href="https://www.patreon.com/jonbarrow"><img alt="Patreon" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /></a>
 <a href="https://ko-fi.com/jonbarrow"><img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
